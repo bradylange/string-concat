@@ -15,7 +15,7 @@ sets the new terminating spot after the loop is finished.
 
 Input:
 
-`./a.out hello you`
+`a.out hello you`
 
 Output:
 
